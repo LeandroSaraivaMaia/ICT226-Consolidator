@@ -1,0 +1,17 @@
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\bin\Debug\TestConsolidator.dll
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\bin\Debug\TestConsolidator.pdb
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\bin\Debug\Consolidator.exe
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\bin\Debug\Consolidator.pdb
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\bin\Debug\Consolidator.exe.config
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\obj\Debug\TestConsolidator.csprojAssemblyReference.cache
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\obj\Debug\TestConsolidator.csproj.CoreCompileInputs.cache
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\obj\Debug\TestConsolidator.csproj.CopyComplete
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\obj\Debug\TestConsolidator.dll
+P:\ICT\226\git\ICT226-Consolidator\TestConsolidator\obj\Debug\TestConsolidator.pdb
